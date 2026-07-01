@@ -11,6 +11,7 @@ import androidx.core.view.WindowInsetsCompat
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import kotlin.random.Random
 
+
 class MainActivity : AppCompatActivity() {
     private lateinit var view: View
     private lateinit var button: FloatingActionButton
